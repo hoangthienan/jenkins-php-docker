@@ -1,5 +1,6 @@
 Jenkins-PHP Docker
 =========
+Clone from: https://github.com/voduytuan/jenkins-php-docker
 
 Here is another Jenkins-php template docker.
 With the difference that **this one works**.
